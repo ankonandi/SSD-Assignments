@@ -1,26 +1,26 @@
 # SSD Assignment 1
 
 ## Question 1
-##### A.
+#### A.
 Removes empty lines and generates 'quotes_empty.txt without empty lines.
 
-##### B.
+#### B.
 Removes duplicates and creates 'quotes_rdup.txt'.
 
-##### C.
+#### C.
 Counts the quotes by name of author and creates 'quotes_byperson.txt'.
 
-##### D.
+#### D.
 Finds words starting with s and not followed by a and prints it.
 
 
 ## Question 2
-##### A.
+#### A.
 This script generates a random password with:
 - Length of 8-10 characters
 - Includes Uppercase characters, lowercase characters and special characters (%&#$@()! )
 
-##### B.
+#### B.
 This script generates account number with:
 - Length of 12-14 characters
 - First character is not '0'
