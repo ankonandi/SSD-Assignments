@@ -1,16 +1,16 @@
 # SSD Assignment 1
 
 ## Question 1
-### A.
+#### A.
 Removes empty lines and generates 'quotes_empty.txt without empty lines.
 
-### B.
+#### B.
 Removes duplicates and creates 'quotes_rdup.txt'.
 
-### C.
+#### C.
 Counts the quotes by name of author and creates 'quotes_byperson.txt'.
 
-### D.
+#### D.
 Finds words starting with s and not followed by a and prints it.
 
 
