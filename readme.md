@@ -28,3 +28,10 @@ This script generates account number with:
 - In the question it is mentioned that digits can't repeat i.e, length of (12-14) with characters (0-9) but this is not possible hence numbers can not repeat more than twice consequestively.
 - Any character will not be repeated more than 3 times consequetively i.e, 666, 777, 8888, 99999
 
+
+## Question 3
+The script shoes name and size of all directories in present diretory sorted by size.
+
+
+## Question 4
+THe script creates a directory 'temp_activity' and generates 50 files inside it with name temp1.sh till temp50.sh inside temp_activity itself. Then the file type of first 25 files is changed from '.sh' to '.txt'
