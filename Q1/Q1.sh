@@ -10,5 +10,5 @@ awk '!seen[$0]++' quotes_empty.txt > quotes_rdup.txt
 awk -F '~' '{ if ($2) count[$2]++ } END { for (person in count) print person ": " count[person] }' quotes_rdup.txt > quotes_byperson.txt
 
 # 1d Lists all the words in the file that starts with ‘s’ and doesn’t follow by ‘a’
-grep -o '\bs[^aA ][^ ]*\b' quotes.txt > quotes_s.txt
+grep -o '\bs[^aA ][^ ]*\b' quotes.txt 
 
